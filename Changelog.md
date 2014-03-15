@@ -40,6 +40,7 @@ Enhancements:
   than being done lazily on first access. (Myron Marston)
 * Add `:block` metadata entry to the example metadata, bringing
   parity with `:block` in the example group metadata. (Myron Marston)
+* Add legacy support for `colorize_summary`. (Jon Rowe)
 
 Bug Fixes:
 
